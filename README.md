@@ -1,6 +1,5 @@
-![5259475](https://user-images.githubusercontent.com/82564339/155879571-0be67d21-53bc-4227-b1a2-1455d171f11b.png)
-
-# Heartful Greetings
+# My Heartful Greetings
+![istockphoto-1289411982-170667a](https://user-images.githubusercontent.com/82564339/156139846-22168404-7641-4dae-b2b1-f1a79ad70d22.jpg)
 
 <h1 align="center">Hi 👋, I'm Prasanth</h1>
 <h3 align="center">A passionate Python programmer and Data Science enthusiast who loves exploring new fields of technology.</h3>
@@ -9,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saiprasanth212" target="blank"><img src="https://img.shields.io/twitter/follow/saiprasanth212?logo=twitter&style=for-the-badge" alt="saiprasanth212" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Advanced level of Python**
+- 🌱 I’m currently learning *Data Science and Advanced level of Python*
 
 - 🤝 I’m looking for help with **Machine Learning and Artificial Intelligence**
 
