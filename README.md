@@ -1,5 +1,5 @@
-# My Heartful Greetings
-![istockphoto-1289411982-170667a](https://user-images.githubusercontent.com/82564339/156139846-22168404-7641-4dae-b2b1-f1a79ad70d22.jpg)
+# Thank you for visiting my Git Profile.
+[![2150010125.jpg](https://i.postimg.cc/brCCgPFb/2150010125.jpg)](https://postimg.cc/Cn8sM30L)
 
 <h1 align="center">Hi 👋, I'm Prasanth</h1>
 <h3 align="center">A passionate Python programmer and Data Science enthusiast who loves exploring new fields of technology.</h3>
