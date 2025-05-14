@@ -8,10 +8,15 @@
 
 ## 🙋‍♂️ About Me
 
-💻 I'm passionate lover of programming and everything connected with it  
-🎯 Fond of solving interesting and hard problems. Check my Leetcode account here (https://leetcode.com/u/Success_Code/)
+💻 I'm passionate lover of programming and everything connected with it 
+
+🎯 Fond of solving interesting and hard problems. Here's [my Leetcode account](https://leetcode.com/u/Success_Code/)
+
+
 🍀 Currently learning JS backend development and Data analysis using Python  
+
 💞️ I'm looking to collaborate on some interesting projects with Python and Javascript  
+
 📫 You can reach me with **[Discord <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width=15>](https://discord.com/users/saiprasanth0212)**
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20>
