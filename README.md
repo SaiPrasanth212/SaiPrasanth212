@@ -10,7 +10,7 @@
 
 💻 I'm passionate lover of programming and everything connected with it  
 🎯 Fond of solving interesting and hard problems  
-🍀 Currently learning JS backend development and building projects for my portfolio  
+🍀 Currently learning JS backend development and Data analysis using Python  
 💞️ I'm looking to collaborate on some interesting projects with Python and Javascript  
 📫 You can reach me with **[Discord <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width=15>](https://discord.com/users/saiprasanth0212)**
 
